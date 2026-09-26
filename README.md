@@ -23,7 +23,9 @@ C118912 (this is a potentiometer otherwise known as a variable resistor. You can
 \\\\\\KEY points//////
 
   || use easyeda if you are a beginner(like me)
+  
   || dont change any settings related to routing or the size of the track unless it is very important.I prefer not to .(cause i done it and i dont do it again.i have to see so many tutorials to change it to normal.)
+  
   || if you are a beginner stick with a simple very reliable to route kind of pcb out line
 
 # THE GREAT JOURNEY

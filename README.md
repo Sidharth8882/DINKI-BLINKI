@@ -1,14 +1,23 @@
 # DINKI-BLINKI
 Its a 555 timer led blinker wich i included with 10 led.THE blinker speed can be adjestuble by  potentiometer.
 these are the components if you want to build it
-C46749 (this is your 555 IC which is famous in circuitry)
+
+C46749 (this is your 555 IC which is famous in circuitry) 
+
 C32710674 (this is your main 4017 IC. It controls all of the LED’s flashing given an input from the 555)
+
 C492401 (this is your header, or little pins which you will use to power your circuit)
+
 C81276 (this is another little header which you can use for debugging your circuit)
+
 C62934 (this is an electrolytic capacitor, it is directional so be careful!)
+
 C249157 (this is another cap)
+
 C713997 (this is a 1k ohm resistor)
+
 C58592 (this is a 470 ohm resistor)
+
 C118912 (this is a potentiometer otherwise known as a variable resistor. You can use this to control the speed of the flashes)
 
 \\\\\\KEY points//////

@@ -1,5 +1,5 @@
 # DINKI-BLINKI
-Its a 555 timer led blinker wich i included with 10 led.THE blinker speed can be adjestuble by  potentiometer.
+Its a 555 timer led blinker wich i included with 10 led.THE blinker speed can be adjustable by  potentiometer.
 these are the components if you want to build it
 
 C46749 (this is your 555 IC which is famous in circuitry) 

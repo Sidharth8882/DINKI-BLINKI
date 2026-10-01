@@ -39,4 +39,6 @@ The schematic of this project was very understandable and it took not many attem
 
 the thing that took so many attempts was the routing and the custom unique design.Thats why i took so many days .cause after spending so many time on the design then i realise it is really hard to route,but i completed it .i know its have some imperfection and misalignment.so bare with me <img width="402" height="368" alt="Screenshot 2026-09-26 212616" src="https://github.com/user-attachments/assets/04bcc59b-a2ec-4c0f-afe0-b8200c817add" /><img width="663" height="479" alt="Screenshot 2026-09-26 212636" src="https://github.com/user-attachments/assets/15df1052-741f-475d-bd70-18366915afa8" />
 
+\\JLCPCB CART//
 
+<img width="1080" height="1823" alt="Screenshot_20261001_175756_Samsung Browser" src="https://github.com/user-attachments/assets/a364e389-f054-47b8-9939-bf4a59a389fb" />

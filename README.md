@@ -2,31 +2,17 @@
 Its a 555 timer led blinker wich i included with 10 led.THE blinker speed can be adjustable by  potentiometer.
 these are the components if you want to build it
 
-C46749 (this is your 555 IC which is famous in circuitry) 
-
-C32710674 (this is your main 4017 IC. It controls all of the LED’s flashing given an input from the 555)
-
-C492401 (this is your header, or little pins which you will use to power your circuit)
-
-C81276 (this is another little header which you can use for debugging your circuit)
-
-C62934 (this is an electrolytic capacitor, it is directional so be careful!)
-
-C249157 (this is another cap)
-
-C713997 (this is a 1k ohm resistor)
-
-C58592 (this is a 470 ohm resistor)
-
-C118912 (this is a potentiometer otherwise known as a variable resistor. You can use this to control the speed of the flashes)
-
-\\\\\\KEY points//////
-
-  || use easyeda if you are a beginner(like me)
-  
-  || dont change any settings related to routing or the size of the track unless it is very important.I prefer not to .(cause i done it and i dont do it again.i have to see so many tutorials to change it to normal.)
-  
-  || if you are a beginner stick with a simple very reliable to route kind of pcb out line
+| LCSC Part Number | Component Name | Description | Purchase Link |
+| :--- | :--- | :--- | :--- |
+| **C46749** | 555 Timer IC | Famous integrated circuit used for timing and pulse generation. | [Link](https://lcsc.com) |
+| **C32710674** | 4017 Decade Counter IC | Main control IC that sequences the LED flashing based on the 555 input. | [Link](https://lcsc.com) |
+| **C492401** | Pin Header | Power input connector pins for the circuit. | [Link](https://lcsc.com) |
+| **C81276** | Pin Header | Debugging header pins. | [Link](https://lcsc.com) |
+| **C62934** | Electrolytic Capacitor | Polarized/directional component (install with care). | [Link](https://lcsc.com) |
+| **C249157** | Capacitor | Secondary capacitor for the circuit. | [Link](https://lcsc.com) |
+| **C713997** | 1k Ω Resistor | Fixed resistor (1,000 ohms). | [Link](https://lcsc.com) |
+| **C58592** | 470 Ω Resistor | Fixed resistor (470 ohms). | [Link](https://lcsc.com) |
+| **C118912** | Potentiometer | Variable resistor. You can use this to control the speed of the flashes. | [Link](https://lcsc.com) |
 
 # THE GREAT JOURNEY
  

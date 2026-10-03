@@ -4,7 +4,7 @@ these are the components if you want to build it
 
 | LCSC Part Number | Component Name | Description | JLCPCB Part Link |
 | :--- | :--- | :--- | :--- |
-| **C46749** | 555 Timer IC | Famous integrated circuit used for timing and pulse generation. | [Link](https://jlcpcb.com) |
+| **C46749** | 555 Timer IC | Famous integrated circuit used for timing and pulse generation. | [Link](https://www.lcsc.com/product-detail/C46749.html) |
 | **C32710674** | 4017 Decade Counter IC | Main control IC that sequences the LED flashing based on the 555 input. | [Link](https://jlcpcb.com) |
 | **C492401** | Pin Header | Power input connector pins for the circuit. | [Link](https://jlcpcb.com) |
 | **C81276** | Pin Header | Debugging header pins. | [Link](https://jlcpcb.com) |

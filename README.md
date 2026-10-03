@@ -2,17 +2,18 @@
 Its a 555 timer led blinker wich i included with 10 led.THE blinker speed can be adjustable by  potentiometer.
 these are the components if you want to build it
 
-| LCSC Part Number | Component Name | Description | Purchase Link |
+| LCSC Part Number | Component Name | Description | JLCPCB Part Link |
 | :--- | :--- | :--- | :--- |
-| **C46749** | 555 Timer IC | Famous integrated circuit used for timing and pulse generation. | [Link](https://lcsc.com) |
-| **C32710674** | 4017 Decade Counter IC | Main control IC that sequences the LED flashing based on the 555 input. | [Link](https://lcsc.com) |
-| **C492401** | Pin Header | Power input connector pins for the circuit. | [Link](https://lcsc.com) |
-| **C81276** | Pin Header | Debugging header pins. | [Link](https://lcsc.com) |
-| **C62934** | Electrolytic Capacitor | Polarized/directional component (install with care). | [Link](https://lcsc.com) |
-| **C249157** | Capacitor | Secondary capacitor for the circuit. | [Link](https://lcsc.com) |
-| **C713997** | 1k Ω Resistor | Fixed resistor (1,000 ohms). | [Link](https://lcsc.com) |
-| **C58592** | 470 Ω Resistor | Fixed resistor (470 ohms). | [Link](https://lcsc.com) |
-| **C118912** | Potentiometer | Variable resistor. You can use this to control the speed of the flashes. | [Link](https://lcsc.com) |
+| **C46749** | 555 Timer IC | Famous integrated circuit used for timing and pulse generation. | [Link](https://jlcpcb.com) |
+| **C32710674** | 4017 Decade Counter IC | Main control IC that sequences the LED flashing based on the 555 input. | [Link](https://jlcpcb.com) |
+| **C492401** | Pin Header | Power input connector pins for the circuit. | [Link](https://jlcpcb.com) |
+| **C81276** | Pin Header | Debugging header pins. | [Link](https://jlcpcb.com) |
+| **C62934** | Electrolytic Capacitor | Polarized/directional component (install with care). | [Link](https://jlcpcb.com) |
+| **C249157** | Capacitor | Secondary capacitor for the circuit. | [Link](https://jlcpcb.com) |
+| **C713997** | 1k Ω Resistor | Fixed resistor (1,000 ohms). | [Link](https://jlcpcb.com) |
+| **C58592** | 470 Ω Resistor | Fixed resistor (470 ohms). | [Link](https://jlcpcb.com) |
+| **C118912** | Potentiometer | Variable resistor. You can use this to control the speed of the flashes. | [Link](https://jlcpcb.com) |
+
 
 # THE GREAT JOURNEY
  

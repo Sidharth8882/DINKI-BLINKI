@@ -2,18 +2,18 @@
 Its a 555 timer led blinker wich i included with 10 led.THE blinker speed can be adjustable by  potentiometer.
 these are the components if you want to build it
 
-| LCSC Part Number | Component Name | Description | Price | JLCPCB Part Link |
-| :--- | :--- | :--- | :--- |
-| **C46749** | 555 Timer IC | Famous integrated circuit used for timing and pulse generation. | [Link](https://www.lcsc.com/product-detail/C46749.html) |
-| **C32710674** | 4017 Decade Counter IC | Main control IC that sequences the LED flashing based on the 555 input. | [Link](https://www.lcsc.com/product-detail/C32710674.html?s_z=n_q_C32710674&globalKeyword=C32710674) |
-| **C492401** | Pin Header | Power input connector pins for the circuit. | [Link](https://www.lcsc.com/product-detail/C492401.html?s_z=n_q_C492401&globalKeyword=C492401) |
-| **C81276** | Pin Header | Debugging header pins. | [Link](https://www.lcsc.com/product-detail/C81276.html?s_z=n_q_C81276&globalKeyword=C81276) |
-| **C62934** | Electrolytic Capacitor | Polarized/directional component (install with care). | [Link](https://www.lcsc.com/product-detail/C62934.html?s_z=n_q_C62934&globalKeyword=C62934) |
-| **C249157** | Capacitor | Secondary capacitor for the circuit. | [Link](https://www.lcsc.com/product-detail/C249157.html?s_z=n_q_C249157&globalKeyword=C249157) |
-| **C713997** | 1k Ω Resistor | Fixed resistor (1,000 ohms). | [Link](https://www.lcsc.com/product-detail/C713997.html?s_z=n_q_C713997&globalKeyword=C713997) |
-| **C58592** | 470 Ω Resistor | Fixed resistor (470 ohms). | [Link](https://www.lcsc.com/product-detail/C58592.html?s_z=n_q_C58592&globalKeyword=C58592) |
-| **C118912** | Potentiometer | Variable resistor. You can use this to control the speed of the flashes. | [Link](https://www.lcsc.com/product-detail/C118912.html?s_z=n_q_C118912&globalKeyword=C118912) |
-
+| LCSC Part Number | Name | Description | Price (5 Units) | Link |
+| :--- | :--- | :--- | :--- | :--- |
+| C46749 | NE555P | Famous 555 Precision Timer IC, DIP-8 | $ 1.33 | [View Component on LCSC](https://lcsc.com "TI NE555P") |
+| C32710674 | CD4017BE | Main 4017 Counter/Divider IC (LED Control), DIP-16 |  | [View Component on LCSC](https://lcsc.com "TI CD4017BE") |
+| C2895480 | XL-502UWC | Through-Hole LED, 5mm White Water Clear | ~$0.15 | [View Component on LCSC](https://www.lcsc.com/product-detail/C2895480.html "XINGLIGHT LED") |
+| C492401 | PZ254V-11-02P | Power Header Pins, 1x2P Male Straight, 2.54mm Pitch | ~$0.10 | [View Component on LCSC](https://lcsc.com "XFCN Pin Header") |
+| C81276 | 2.54-1*1P | Debug Header, 1x1P Single Male Pin, 2.54mm Pitch | ~$0.05 | [View Component on LCSC](https://lcsc.com "BOOMELE Male Pin") |
+| C62934 | Electrolytic Cap | Polarized Electrolytic Capacitor (Watch orientation!) | ~$0.15 | [View Component on LCSC](https://lcsc.com "Electrolytic Cap") |
+| C249157 | Capacitor | Supplemental Circuit Capacitor | ~$0.10 | [View Component on LCSC](https://lcsc.com "Capacitor") |
+| C713997 | 1kΩ Resistor | 1k Ohm Fixed Resistor | ~$0.05 | [View Component on LCSC](https://lcsc.com "1k Resistor") |
+| C58592 | 470Ω Resistor | 470 Ohm Fixed Resistor | ~$0.05 | [View Component on LCSC](https://lcsc.com "470R Resistor") |
+| C118912 | Potentiometer | Variable Resistor (Controls LED flashing speed) | ~$0.90 | [View Component on LCSC](https://lcsc.com "Potentiometer") |
 
 # THE GREAT JOURNEY
  

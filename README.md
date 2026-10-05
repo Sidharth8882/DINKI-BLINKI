@@ -2,18 +2,18 @@
 Its a 555 timer led blinker wich i included with 10 led.THE blinker speed can be adjustable by  potentiometer.
 these are the components if you want to build it
 
-| LCSC Part Number | Name | Description | Price (5 Units) | Link |
-| :--- | :--- | :--- | :--- | :--- |
-| C46749 | NE555P | Famous 555 Precision Timer IC, DIP-8 | $ 1.33 | [View Component on LCSC](https://lcsc.com "TI NE555P") |
-| C32710674 | CD4017BE | Main 4017 Counter/Divider IC (LED Control), DIP-16 |  | [View Component on LCSC](https://lcsc.com "TI CD4017BE") |
-| C2895480 | XL-502UWC | Through-Hole LED, 5mm White Water Clear | ~$0.15 | [View Component on LCSC](https://www.lcsc.com/product-detail/C2895480.html "XINGLIGHT LED") |
-| C492401 | PZ254V-11-02P | Power Header Pins, 1x2P Male Straight, 2.54mm Pitch | ~$0.10 | [View Component on LCSC](https://lcsc.com "XFCN Pin Header") |
-| C81276 | 2.54-1*1P | Debug Header, 1x1P Single Male Pin, 2.54mm Pitch | ~$0.05 | [View Component on LCSC](https://lcsc.com "BOOMELE Male Pin") |
-| C62934 | Electrolytic Cap | Polarized Electrolytic Capacitor (Watch orientation!) | ~$0.15 | [View Component on LCSC](https://lcsc.com "Electrolytic Cap") |
-| C249157 | Capacitor | Supplemental Circuit Capacitor | ~$0.10 | [View Component on LCSC](https://lcsc.com "Capacitor") |
-| C713997 | 1kΩ Resistor | 1k Ohm Fixed Resistor | ~$0.05 | [View Component on LCSC](https://lcsc.com "1k Resistor") |
-| C58592 | 470Ω Resistor | 470 Ohm Fixed Resistor | ~$0.05 | [View Component on LCSC](https://lcsc.com "470R Resistor") |
-| C118912 | Potentiometer | Variable Resistor (Controls LED flashing speed) | ~$0.90 | [View Component on LCSC](https://lcsc.com "Potentiometer") |
+| LCSC Part Number | Description | Price (5 Units) | Link |
+| :--- | :--- | :--- | :--- |
+| C46749 | Famous 555 Precision Timer IC, DIP-8 | $ 1.33 | [View Component on LCSC](https://lcsc.com "TI NE555P") |
+| C32710674 | Main 4017 Counter/Divider IC (LED Control), DIP-16 | $ 0.67 | [View Component on LCSC](https://lcsc.com "TI CD4017BE") |
+| C2895480 | Through-Hole LED, 5mm White Water Clear | 0.54 | [View Component on LCSC](https://www.lcsc.com/product-detail/C2895480.html "XINGLIGHT LED") |
+| C492401 | Power Header Pins, 1x2P Male Straight, 2.54mm Pitch | ~$0.10 | [View Component on LCSC](https://lcsc.com "XFCN Pin Header") |
+| C81276 | Debug Header, 1x1P Single Male Pin, 2.54mm Pitch | ~$0.05 | [View Component on LCSC](https://lcsc.com "BOOMELE Male Pin") |
+| C62934 | Polarized Electrolytic Capacitor (Watch orientation!) | ~$0.15 | [View Component on LCSC](https://lcsc.com "Electrolytic Cap") |
+| C249157 | Supplemental Circuit Capacitor | ~$0.10 | [View Component on LCSC](https://lcsc.com "Capacitor") |
+| C713997 | 1k Ohm Fixed Resistor | ~$0.05 | [View Component on LCSC](https://lcsc.com "1k Resistor") |
+| C58592 | 470 Ohm Fixed Resistor | ~$0.05 | [View Component on LCSC](https://lcsc.com "470R Resistor") |
+| C118912 | Variable Resistor (Controls LED flashing speed) | ~$0.90 | [View Component on LCSC](https://lcsc.com "Potentiometer") |
 
 # THE GREAT JOURNEY
  

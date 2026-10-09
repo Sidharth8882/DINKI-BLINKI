@@ -47,4 +47,7 @@ This is the final look and the *3d model*.
 
 # THE GREAT JOURNEY
  
-i called it a great THE GREAT JOURNEY because it took too many days to complete this project even though it is not.The problem was i dont have my own laptop so i have to work with my moms office laptop which i can only borrow for some minutes when she gets break.so thats why it took me sooo long......
+i called it a great THE GREAT JOURNEY because it took too many days to complete this project even though it is not.The problem was i dont have my own laptop so i have to work with my moms office laptop which i can only borrow for some minutes when she gets break.so thats why it took me sooo long....
+
+                                                                          
+                                                                                   

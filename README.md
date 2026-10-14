@@ -43,7 +43,8 @@ This is the final look and the *3d model*.
 | C713997 | 1k Ohm Fixed Resistor | $0.39 | [View Component on LCSC](https://lcsc.com "1k Resistor") |
 | C58592 | 470 Ohm Fixed Resistor | $0.61 | [View Component on LCSC](https://lcsc.com "470R Resistor") |
 | C118912 | Variable Resistor (Controls LED flashing speed) | $0.98 | [View Component on LCSC](https://lcsc.com "Potentiometer") |
-|         |             TOTAL                  | $8.18|
+|         | soldering iron | $3.16 |   
+|         |             TOTAL                  | |
 
 # THE GREAT JOURNEY
  

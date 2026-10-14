@@ -31,7 +31,7 @@ This is the final look and the *3d model*.
 
 #### BOM
 
-| LCSC Part Number | Description | Price | Link |
+| LCSC Part Number | Description | Price(from ROBU) | Link |
 | :--- | :--- | :--- | :--- |
 | C46749 | Famous 555 Precision Timer IC, DIP-8 | $ 1.34 | [View Component on LCSC](https://lcsc.com "TI NE555P") |
 | C32710674 | Main 4017 Counter/Divider IC (LED Control), DIP-16 | $ 0.33 | [View Component on LCSC](https://lcsc.com "TI CD4017BE") |
